@@ -514,12 +514,12 @@
     min-height: 239px;
   }
 } .u-section-2 {
-  background-image: url("images/jh1-24.jpg");
+  background-image: url("images/jh1-23.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 757px;
+  min-height: 758px;
 }
 
 .u-section-2 .u-text-1 {
@@ -527,10 +527,10 @@
 }
 
 .u-section-2 .u-gallery-1 {
-  width: 689px;
-  height: 545px;
-  grid-gap: 10px;
-  margin: 40px auto 60px;
+  width: 676px;
+  height: 585px;
+  grid-gap: 10px 10px;
+  margin: 0 auto 60px 226px;
 }
 
 .u-section-2 .u-carousel-item-1 {
@@ -641,9 +641,22 @@
   height: 40px;
 }
 
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 757px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-gallery-1 {
+    margin-left: 44px;
+  }
+}
+
 @media (max-width: 767px) {
   .u-section-2 .u-gallery-1 {
     width: 540px;
+    margin-left: 0;
   }
 
   .u-section-2 .u-carousel-thumbnail-1 {

@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/jh1-26.jpg");
+  background-image: url("images/jh1-29.jpg");
   background-position: 50% 50%;
   min-height: 1058px;
 }
@@ -34,14 +34,6 @@
 .u-section-1 .u-btn-1 {
   background-image: none;
   font-size: 1.875rem;
-  padding: 0;
-}
-
-.u-section-1 .u-btn-2 {
-  background-image: none;
-  border-style: none;
-  font-size: 1.25rem;
-  margin: 30px 0 0 5px;
   padding: 0;
 }
 

@@ -31,7 +31,7 @@
 
 .u-section-1 .u-image-2 {
   height: 617px;
-  margin-top: 81px;
+  margin-top: 0;
   margin-bottom: 0;
 }
 
@@ -652,7 +652,7 @@
     min-height: 239px;
   }
 } .u-section-3 {
-  background-image: url("images/jh1-28.jpg");
+  background-image: url("images/jh1-29.jpg");
   background-position: 50% 50%;
 }
 

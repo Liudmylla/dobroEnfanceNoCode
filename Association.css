@@ -29,6 +29,19 @@
   margin: 35px 0 0 13px;
 }
 
+.u-section-1 .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 32px;
+  min-width: 16px;
+  margin: 13px auto 0 13px;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+  height: 100%;
+}
+
 .u-section-1 .u-image-1 {
   min-height: 1058px;
   pointer-events: auto;
@@ -77,6 +90,10 @@
   }
 
   .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-social-icons-1 {
     margin-left: 0;
   }
 

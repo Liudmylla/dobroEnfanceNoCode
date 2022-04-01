@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/jh1-31.jpg");
+  background-image: url("images/jh1-28.jpg");
   background-position: 50% 50%;
   min-height: 1058px;
 }
@@ -27,8 +27,21 @@
   margin: 262px auto 0 0;
 }
 
+.u-section-1 .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 32px;
+  min-width: 16px;
+  margin: 23px auto 0 170px;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+  height: 100%;
+}
+
 .u-section-1 .u-text-1 {
-  margin: 55px auto 0 5px;
+  margin: 0 auto 0 5px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -61,12 +74,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 618px;
-  }
-
-  .u-section-1 .u-image-2 {
-    width: 444px;
-    height: 316px;
+    min-height: 668px;
   }
 }
 
@@ -80,7 +88,12 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 752px;
+    min-height: 501px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 385px;
   }
 }
 
@@ -94,7 +107,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 473px;
+    min-height: 315px;
   }
 
   .u-section-1 .u-image-2 {
